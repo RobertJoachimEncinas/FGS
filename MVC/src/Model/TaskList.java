@@ -1,4 +1,4 @@
-package Model;
+package MVC.src.Model;
 
 import java.util.ArrayList;
 

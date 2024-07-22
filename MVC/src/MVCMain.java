@@ -1,6 +1,8 @@
-import Model.TaskList;
-import View.View;
-import Controller.Controller;
+package MVC.src;
+
+import MVC.src.Model.TaskList;
+import MVC.src.View.View;
+import MVC.src.Controller.Controller;
 
 public class MVCMain {
     public static void main(String[] args) {

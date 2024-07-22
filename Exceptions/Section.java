@@ -1,3 +1,5 @@
+package Exceptions;
+
 public class Section {
     private String sectionCode;
     private int capacity;

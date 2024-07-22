@@ -1,7 +1,7 @@
-package Controller;
+package MVC.src.Controller;
 
-import Model.TaskList;
-import View.View;
+import MVC.src.Model.TaskList;
+import MVC.src.View.View;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

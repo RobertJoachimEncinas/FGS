@@ -1,3 +1,4 @@
+package Exceptions;
 
 public class InvalidCapacityException extends RuntimeException {
     public InvalidCapacityException(int capacity) {
