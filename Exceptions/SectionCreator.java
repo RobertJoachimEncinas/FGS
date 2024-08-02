@@ -17,6 +17,8 @@ public class SectionCreator {
             
         } catch (Exception err) {
             throw new SectionCreationFailedException(err);
+        } finally {
+            //System.out.println("IN FINALLY");
         }
     }
 }
